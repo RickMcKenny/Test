@@ -13,5 +13,5 @@ def divide(a,b):
 
 def subtraction(a,b):
 
-    return a - b;
+    return a - b
 
